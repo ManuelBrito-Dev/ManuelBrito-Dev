@@ -1,3 +1,3 @@
 - 👋 Olá sou o Manuel!
-- 👀 Sou dev de HTML e CSS(com curso, tenho certificado) e também sou dev de Discord.js!
+- 👀 Sou dev de HTML e CSS(com curso de 5 meses (aulas = 30)) e também sou dev de Discord.js!
 - 🌱 Eu agora estou a fazer um projeto que ajuda varias pessoas a criarem o seu bot de discord!
